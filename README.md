@@ -127,6 +127,12 @@ Import multiple items from a text file with tab or comma-separated values.
 
 Edit `xerox_data.json` directly, ensuring proper JSON formatting.
 
+## Sorting Data
+
+```
+python json_sorter.py xerox_data.json xerox_data_output.json --keys printer_model region_zone metered_sold consumable_type color
+```
+
 ## Use Cases
 
 - **Service Technicians**: Quickly identify correct consumables for printer models
