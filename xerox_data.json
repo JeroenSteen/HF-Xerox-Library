@@ -1,11 +1,33 @@
 [
   {
-    "part_number": "CT350767",
+    "part_number": "CT200414",
     "color": "",
-    "printer_model": "",
+    "printer_model": "Xerox DocuCentre A235/A285/F235/F285, Fuji Xerox ApeosPort 350i/450i (Mono)",
+    "consumable_type": "",
+    "yield": "25000",
+    "region_zone": "JPN",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": "HFD1"
+  },
+  {
+    "part_number": "CT350767",
+    "color": "Black",
+    "printer_model": "Xerox DocuCentre A235/A285/F235/F285, Fuji Xerox ApeosPort 350i/450i (Mono)",
     "consumable_type": "drum",
-    "yield": "",
-    "region_zone": "",
+    "yield": "60000",
+    "region_zone": "JPN",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": "HFD1"
+  },
+  {
+    "part_number": "CT350593",
+    "color": "Black",
+    "printer_model": "Xerox DocuCentre A235/A285/F235/F285, Fuji Xerox ApeosPort 350i/450i (Mono)",
+    "consumable_type": "toner",
+    "yield": "60000",
+    "region_zone": "JPN",
     "metered_sold": "",
     "iot_codename": "",
     "chip_type": "HFD1"
