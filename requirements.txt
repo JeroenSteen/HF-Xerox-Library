@@ -1,0 +1,5 @@
+# Standard library imports are sufficient for now
+# No external packages required
+
+# Python version requirement (if applicable)
+# python>=3.4  # for pathlib support

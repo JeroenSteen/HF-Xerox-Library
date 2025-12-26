@@ -155,7 +155,6 @@ If you encounter any problems or have questions:
 
 - Open an issue on GitHub
 - Check existing issues for solutions
-- Contact: [Your contact info or leave blank]
 
 ## Acknowledgments
 
