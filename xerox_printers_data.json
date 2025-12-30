@@ -1,0 +1,57 @@
+[
+  {
+    "part_number": "",
+    "color": "KCYM",
+    "printer_model": "Xerox C4300",
+    "consumable_type": "",
+    "yield": "32K",
+    "region_zone": "",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  },
+  {
+    "part_number": "",
+    "color": "KCYM",
+    "printer_model": "Xerox C4350",
+    "consumable_type": "",
+    "yield": "32K",
+    "region_zone": "",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  },
+  {
+    "part_number": "",
+    "color": "KCYM",
+    "printer_model": "Xerox C4400",
+    "consumable_type": "",
+    "yield": "32K",
+    "region_zone": "",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  },
+  {
+    "part_number": "",
+    "color": "MONO",
+    "printer_model": "Xerox DocuCentre 831",
+    "consumable_type": "",
+    "yield": "6K",
+    "region_zone": "WW",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  },
+  {
+    "part_number": "",
+    "color": "MONO",
+    "printer_model": "Xerox DocuPrint P230/235/280/285",
+    "consumable_type": "",
+    "yield": "40K",
+    "region_zone": "WW",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  }
+]

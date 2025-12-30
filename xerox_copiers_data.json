@@ -1,0 +1,123 @@
+[
+  {
+    "part_number": "",
+    "color": "MONO",
+    "printer_model": "Xerox DocuCentre 240/340//400/440",
+    "consumable_type": "",
+    "yield": "12K",
+    "region_zone": "WW",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  },
+  {
+    "part_number": "",
+    "color": "MONO",
+    "printer_model": "Xerox DocuCentre 250",
+    "consumable_type": "",
+    "yield": "23K",
+    "region_zone": "WW",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  },
+  {
+    "part_number": "",
+    "color": "MONO",
+    "printer_model": "Xerox DocuCentre 400/401",
+    "consumable_type": "",
+    "yield": "23K",
+    "region_zone": "WW",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  },
+  {
+    "part_number": "",
+    "color": "KCYM",
+    "printer_model": "Xerox DocuCentre C400/240/320dv",
+    "consumable_type": "",
+    "yield": "25K",
+    "region_zone": "WW",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  },
+  {
+    "part_number": "",
+    "color": "MONO",
+    "printer_model": "Xerox WorkCentre 315/320",
+    "consumable_type": "",
+    "yield": "",
+    "region_zone": "CHN",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  },
+  {
+    "part_number": "",
+    "color": "MONO",
+    "printer_model": "Xerox WorkCentre 315/320",
+    "consumable_type": "",
+    "yield": "",
+    "region_zone": "EUR",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  },
+  {
+    "part_number": "",
+    "color": "MONO",
+    "printer_model": "Xerox WorkCentre 315/320",
+    "consumable_type": "",
+    "yield": "",
+    "region_zone": "EXP",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  },
+  {
+    "part_number": "",
+    "color": "MONO",
+    "printer_model": "Xerox WorkCentre 415/420",
+    "consumable_type": "",
+    "yield": "",
+    "region_zone": "CHN",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  },
+  {
+    "part_number": "",
+    "color": "MONO",
+    "printer_model": "Xerox WorkCentre 415/420",
+    "consumable_type": "",
+    "yield": "",
+    "region_zone": "EUR",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  },
+  {
+    "part_number": "",
+    "color": "MONO",
+    "printer_model": "Xerox WorkCentre 415/420",
+    "consumable_type": "",
+    "yield": "",
+    "region_zone": "IN",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  },
+  {
+    "part_number": "",
+    "color": "MONO",
+    "printer_model": "Xerox WorkCentre 423mfp/428mfp",
+    "consumable_type": "",
+    "yield": "",
+    "region_zone": "WW",
+    "metered_sold": "",
+    "iot_codename": "",
+    "chip_type": ""
+  }
+]
