@@ -5073,57 +5073,57 @@
   {
     "part_number": "CT201161/1130",
     "color": "C",
-    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, , Sambo e-Laser CA3250",
+    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, Sambo e-Laser CA3250",
     "consumable_type": "",
     "yield": "12K",
     "region_zone": "WW",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "CT201160/1129",
     "color": "K",
-    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, , Sambo e-Laser CA3250",
+    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, Sambo e-Laser CA3250",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "WW",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "CT350615/654",
     "color": "KCYM",
-    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, , Sambo e-Laser CA3250",
+    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, Sambo e-Laser CA3250",
     "consumable_type": "",
     "yield": "40K",
     "region_zone": "WW",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "CT201162/1131",
     "color": "M",
-    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, , Sambo e-Laser CA3250",
+    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, Sambo e-Laser CA3250",
     "consumable_type": "",
     "yield": "12K",
     "region_zone": "WW",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "CT201163/1132",
     "color": "Y",
-    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, , Sambo e-Laser CA3250",
+    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, Sambo e-Laser CA3250",
     "consumable_type": "",
     "yield": "12K",
     "region_zone": "WW",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "CT200379",
@@ -5530,7 +5530,7 @@
     "region_zone": "ASIA",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "CT201664",
@@ -5541,7 +5541,7 @@
     "region_zone": "ASIA",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "CT201666",
@@ -5552,7 +5552,7 @@
     "region_zone": "ASIA",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "CT201667",
@@ -10095,7 +10095,7 @@
     "region_zone": "NA/W.EU",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01697",
@@ -10106,7 +10106,7 @@
     "region_zone": "NA/W.EU",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01699",
@@ -10117,7 +10117,7 @@
     "region_zone": "NA/W.EU",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01700",
@@ -10128,7 +10128,7 @@
     "region_zone": "NA/W.EU",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01702",
@@ -10139,7 +10139,7 @@
     "region_zone": "SA/E.EU",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01701",
@@ -10150,7 +10150,7 @@
     "region_zone": "SA/E.EU",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01703",
@@ -10161,7 +10161,7 @@
     "region_zone": "SA/E.EU",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01704",
@@ -10172,7 +10172,7 @@
     "region_zone": "SA/E.EU",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01772（CT203136)",
@@ -11051,7 +11051,7 @@
     "yield": "500K",
     "region_zone": "CHN",
     "metered_sold": "",
-    "iot_codename": "",
+    "iot_codename": "WengPrXC",
     "chip_type": ""
   },
   {
@@ -11062,7 +11062,7 @@
     "yield": "500K",
     "region_zone": "EUR",
     "metered_sold": "",
-    "iot_codename": "",
+    "iot_codename": "WengPrXC",
     "chip_type": ""
   },
   {
@@ -11073,7 +11073,7 @@
     "yield": "65K",
     "region_zone": "CHN",
     "metered_sold": "",
-    "iot_codename": "",
+    "iot_codename": "MahoPrXC/WengPrXC",
     "chip_type": ""
   },
   {
@@ -11084,7 +11084,7 @@
     "yield": "478K",
     "region_zone": "CHN",
     "metered_sold": "",
-    "iot_codename": "",
+    "iot_codename": "MahoPrXC/WengPrXC",
     "chip_type": ""
   },
   {
@@ -11095,7 +11095,7 @@
     "yield": "65K",
     "region_zone": "USA",
     "metered_sold": "",
-    "iot_codename": "",
+    "iot_codename": "MahoPrXC/WengPrXC",
     "chip_type": ""
   },
   {
@@ -11106,7 +11106,7 @@
     "yield": "500K",
     "region_zone": "USA",
     "metered_sold": "",
-    "iot_codename": "",
+    "iot_codename": "MahoPrXC/WengPrXC",
     "chip_type": ""
   },
   {
@@ -12525,7 +12525,7 @@
     "yield": "10K",
     "region_zone": "WW",
     "metered_sold": "",
-    "iot_codename": "",
+    "iot_codename": "SATSUMA-XC",
     "chip_type": ""
   },
   {
@@ -15770,7 +15770,7 @@
     "yield": "8K",
     "region_zone": "METERD",
     "metered_sold": "",
-    "iot_codename": "",
+    "iot_codename": "BomboPXC",
     "chip_type": ""
   },
   {
@@ -15781,7 +15781,7 @@
     "yield": "10.5K",
     "region_zone": "METERD",
     "metered_sold": "",
-    "iot_codename": "",
+    "iot_codename": "BomboPXC",
     "chip_type": ""
   },
   {
@@ -15792,7 +15792,7 @@
     "yield": "8K",
     "region_zone": "METERD",
     "metered_sold": "",
-    "iot_codename": "",
+    "iot_codename": "BomboPXC",
     "chip_type": ""
   },
   {
@@ -15803,7 +15803,7 @@
     "yield": "8K",
     "region_zone": "METERD",
     "metered_sold": "",
-    "iot_codename": "",
+    "iot_codename": "BomboPXC",
     "chip_type": ""
   },
   {
@@ -19522,7 +19522,7 @@
     "region_zone": "METERED",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01453",
@@ -19533,7 +19533,7 @@
     "region_zone": "METERED",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01455",
@@ -19544,7 +19544,7 @@
     "region_zone": "METERED",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01454",
@@ -19555,7 +19555,7 @@
     "region_zone": "METERED",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01460",
@@ -19566,7 +19566,7 @@
     "region_zone": "NA/W.EU",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01457",
@@ -19577,7 +19577,7 @@
     "region_zone": "NA/W.EU",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01459",
@@ -19588,7 +19588,7 @@
     "region_zone": "NA/W.EU",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01458",
@@ -19599,7 +19599,7 @@
     "region_zone": "NA/W.EU",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01464",
@@ -19610,7 +19610,7 @@
     "region_zone": "SA/E.EU",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01461",
@@ -19621,7 +19621,7 @@
     "region_zone": "SA/E.EU",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01463",
@@ -19632,7 +19632,7 @@
     "region_zone": "SA/E.EU",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01462",
@@ -19643,7 +19643,7 @@
     "region_zone": "SA/E.EU",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "013R00660",
@@ -19654,7 +19654,7 @@
     "region_zone": "WW",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "013R00657",
@@ -19665,7 +19665,7 @@
     "region_zone": "WW",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "013R00659",
@@ -19676,7 +19676,7 @@
     "region_zone": "WW",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "013R00658",
@@ -19687,7 +19687,7 @@
     "region_zone": "WW",
     "metered_sold": "",
     "iot_codename": "Rookie",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "013R00636, CT350580",
@@ -20066,57 +20066,57 @@
   {
     "part_number": "006R01512",
     "color": "C",
-    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, , AltaLinK C8030/C8035/C8045/C8055/C8070",
+    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, AltaLinK C8030/C8035/C8045/C8055/C8070",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "METERED",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01509",
     "color": "K",
-    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, , AltaLinK C8030/C8035/C8045/C8055/C8070",
+    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, AltaLinK C8030/C8035/C8045/C8055/C8070",
     "consumable_type": "",
     "yield": "26K",
     "region_zone": "METERED",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01511",
     "color": "M",
-    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, , AltaLinK C8030/C8035/C8045/C8055/C8070",
+    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, AltaLinK C8030/C8035/C8045/C8055/C8070",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "METERED",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01510",
     "color": "Y",
-    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, , AltaLinK C8030/C8035/C8045/C8055/C8070",
+    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, AltaLinK C8030/C8035/C8045/C8055/C8070",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "METERED",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "013R00662",
     "color": "KCYM",
-    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, , AltaLinK C8030/C8035/C8045/C8055/C8070",
+    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, AltaLinK C8030/C8035/C8045/C8055/C8070",
     "consumable_type": "",
     "yield": "125K",
     "region_zone": "WW",
     "metered_sold": "",
     "iot_codename": "",
-    "chip_type": ""
+    "chip_type": "DUAL"
   },
   {
     "part_number": "006R01179",
