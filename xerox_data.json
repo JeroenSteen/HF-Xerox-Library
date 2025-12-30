@@ -1377,7 +1377,7 @@
   {
     "part_number": "CT201587",
     "color": "C",
-    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/\nApeosPort-VII  C6688/7788",
+    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/, ApeosPort-VII  C6688/7788",
     "consumable_type": "",
     "yield": "34K",
     "region_zone": "AP",
@@ -1388,7 +1388,7 @@
   {
     "part_number": "CT201586",
     "color": "K",
-    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/\nApeosPort-VII  C6688/7788",
+    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/, ApeosPort-VII  C6688/7788",
     "consumable_type": "",
     "yield": "30K",
     "region_zone": "AP",
@@ -1399,7 +1399,7 @@
   {
     "part_number": "CT201588",
     "color": "M",
-    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/\nApeosPort-VII  C6688/7788",
+    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/, ApeosPort-VII  C6688/7788",
     "consumable_type": "",
     "yield": "31.7K",
     "region_zone": "AP",
@@ -1410,7 +1410,7 @@
   {
     "part_number": "CT201589",
     "color": "Y",
-    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/\nApeosPort-VII  C6688/7788",
+    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/, ApeosPort-VII  C6688/7788",
     "consumable_type": "",
     "yield": "34K",
     "region_zone": "AP",
@@ -1421,7 +1421,7 @@
   {
     "part_number": "CT202200",
     "color": "C",
-    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/\nApeosPort-VII  C6688/7788",
+    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/, ApeosPort-VII  C6688/7788",
     "consumable_type": "",
     "yield": "34K",
     "region_zone": "CHN",
@@ -1432,7 +1432,7 @@
   {
     "part_number": "CT202199",
     "color": "K",
-    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/\nApeosPort-VII  C6688/7788",
+    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/, ApeosPort-VII  C6688/7788",
     "consumable_type": "",
     "yield": "30K",
     "region_zone": "CHN",
@@ -1443,7 +1443,7 @@
   {
     "part_number": "CT202201",
     "color": "M",
-    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/\nApeosPort-VII  C6688/7788",
+    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/, ApeosPort-VII  C6688/7788",
     "consumable_type": "",
     "yield": "31.7K",
     "region_zone": "CHN",
@@ -1454,7 +1454,7 @@
   {
     "part_number": "CT202202",
     "color": "Y",
-    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/\nApeosPort-VII  C6688/7788",
+    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/, ApeosPort-VII  C6688/7788",
     "consumable_type": "",
     "yield": "34K",
     "region_zone": "CHN",
@@ -1465,7 +1465,7 @@
   {
     "part_number": "CT350865/66/67/68",
     "color": "KCYM",
-    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/\nApeosPort-VII  C6688/7788",
+    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/, ApeosPort-VII  C6688/7788",
     "consumable_type": "",
     "yield": "115K",
     "region_zone": "CN//JPN",
@@ -1476,7 +1476,7 @@
   {
     "part_number": "CT350868",
     "color": "CYM",
-    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/\nApeosPort-VII  C6688/7788",
+    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/, ApeosPort-VII  C6688/7788",
     "consumable_type": "",
     "yield": "115K",
     "region_zone": "EX. JPN",
@@ -1487,7 +1487,7 @@
   {
     "part_number": "CT350867",
     "color": "K",
-    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/\nApeosPort-VII  C6688/7788",
+    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/, ApeosPort-VII  C6688/7788",
     "consumable_type": "",
     "yield": "238K/115K",
     "region_zone": "EX. JPN",
@@ -1498,7 +1498,7 @@
   {
     "part_number": "CT201583",
     "color": "C",
-    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/\nApeosPort-VII  C6688/7788",
+    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/, ApeosPort-VII  C6688/7788",
     "consumable_type": "",
     "yield": "34K",
     "region_zone": "JPN",
@@ -1509,7 +1509,7 @@
   {
     "part_number": "CT201582",
     "color": "K",
-    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/\nApeosPort-VII  C6688/7788",
+    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/, ApeosPort-VII  C6688/7788",
     "consumable_type": "",
     "yield": "30K",
     "region_zone": "JPN",
@@ -1520,7 +1520,7 @@
   {
     "part_number": "CT201584",
     "color": "M",
-    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/\nApeosPort-VII  C6688/7788",
+    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/, ApeosPort-VII  C6688/7788",
     "consumable_type": "",
     "yield": "31.7K",
     "region_zone": "JPN",
@@ -1531,7 +1531,7 @@
   {
     "part_number": "CT201585",
     "color": "Y",
-    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/\nApeosPort-VII  C6688/7788",
+    "printer_model": "Fuji Xerox  DocuCentre IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785,ApeosPort IV-C5580/6680/7780,V-C5580/5585/6680/6685/7780/7785/, ApeosPort-VII  C6688/7788",
     "consumable_type": "",
     "yield": "34K",
     "region_zone": "JPN",
@@ -1652,7 +1652,7 @@
   {
     "part_number": "CT201361/202674",
     "color": "C",
-    "printer_model": "Fuji Xerox  DocuCentre-IV2270/2275/3370/3371/3373/3375/\n4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/\n3373/3375/4470/4475/5570/5575",
+    "printer_model": "Fuji Xerox  DocuCentre-IV2270/2275/3370/3371/3373/3375/, 4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/, 3373/3375/4470/4475/5570/5575",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "JPN",
@@ -1663,7 +1663,7 @@
   {
     "part_number": "CT350850",
     "color": "CYM",
-    "printer_model": "Fuji Xerox  DocuCentre-IV2270/2275/3370/3371/3373/3375/\n4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/\n3373/3375/4470/4475/5570/5575",
+    "printer_model": "Fuji Xerox  DocuCentre-IV2270/2275/3370/3371/3373/3375/, 4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/, 3373/3375/4470/4475/5570/5575",
     "consumable_type": "",
     "yield": "103K",
     "region_zone": "JPN",
@@ -1674,7 +1674,7 @@
   {
     "part_number": "CT201360/202673",
     "color": "K",
-    "printer_model": "Fuji Xerox  DocuCentre-IV2270/2275/3370/3371/3373/3375/\n4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/\n3373/3375/4470/4475/5570/5575",
+    "printer_model": "Fuji Xerox  DocuCentre-IV2270/2275/3370/3371/3373/3375/, 4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/, 3373/3375/4470/4475/5570/5575",
     "consumable_type": "",
     "yield": "26K",
     "region_zone": "JPN",
@@ -1685,7 +1685,7 @@
   {
     "part_number": "CT350804",
     "color": "K",
-    "printer_model": "Fuji Xerox  DocuCentre-IV2270/2275/3370/3371/3373/3375/\n4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/\n3373/3375/4470/4475/5570/5575",
+    "printer_model": "Fuji Xerox  DocuCentre-IV2270/2275/3370/3371/3373/3375/, 4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/, 3373/3375/4470/4475/5570/5575",
     "consumable_type": "",
     "yield": "150K",
     "region_zone": "JPN",
@@ -1696,7 +1696,7 @@
   {
     "part_number": "CT201362/202675",
     "color": "M",
-    "printer_model": "Fuji Xerox  DocuCentre-IV2270/2275/3370/3371/3373/3375/\n4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/\n3373/3375/4470/4475/5570/5575",
+    "printer_model": "Fuji Xerox  DocuCentre-IV2270/2275/3370/3371/3373/3375/, 4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/, 3373/3375/4470/4475/5570/5575",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "JPN",
@@ -1707,7 +1707,7 @@
   {
     "part_number": "CT201363/202676",
     "color": "Y",
-    "printer_model": "Fuji Xerox  DocuCentre-IV2270/2275/3370/3371/3373/3375/\n4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/\n3373/3375/4470/4475/5570/5575",
+    "printer_model": "Fuji Xerox  DocuCentre-IV2270/2275/3370/3371/3373/3375/, 4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/, 3373/3375/4470/4475/5570/5575",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "JPN",
@@ -2587,7 +2587,7 @@
   {
     "part_number": "CT351066",
     "color": "C",
-    "printer_model": "Fuji Xerox ApeosPort-V C3320\nFuji Xerox DocuPrint CM415",
+    "printer_model": "Fuji Xerox ApeosPort-V C3320, Fuji Xerox DocuPrint CM415",
     "consumable_type": "",
     "yield": "60K",
     "region_zone": "AP",
@@ -2598,7 +2598,7 @@
   {
     "part_number": "CT351066",
     "color": "K",
-    "printer_model": "Fuji Xerox ApeosPort-V C3320\nFuji Xerox DocuPrint CM415",
+    "printer_model": "Fuji Xerox ApeosPort-V C3320, Fuji Xerox DocuPrint CM415",
     "consumable_type": "",
     "yield": "60K",
     "region_zone": "AP",
@@ -2609,7 +2609,7 @@
   {
     "part_number": "CT351066",
     "color": "M",
-    "printer_model": "Fuji Xerox ApeosPort-V C3320\nFuji Xerox DocuPrint CM415",
+    "printer_model": "Fuji Xerox ApeosPort-V C3320, Fuji Xerox DocuPrint CM415",
     "consumable_type": "",
     "yield": "60K",
     "region_zone": "AP",
@@ -2620,7 +2620,7 @@
   {
     "part_number": "CT351066",
     "color": "Y",
-    "printer_model": "Fuji Xerox ApeosPort-V C3320\nFuji Xerox DocuPrint CM415",
+    "printer_model": "Fuji Xerox ApeosPort-V C3320, Fuji Xerox DocuPrint CM415",
     "consumable_type": "",
     "yield": "60K",
     "region_zone": "AP",
@@ -2631,7 +2631,7 @@
   {
     "part_number": "CT202631",
     "color": "C",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471",
     "consumable_type": "",
     "yield": "21K",
     "region_zone": "JPN",
@@ -2642,7 +2642,7 @@
   {
     "part_number": "CT202630",
     "color": "K",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471",
     "consumable_type": "",
     "yield": "36K",
     "region_zone": "JPN",
@@ -2653,7 +2653,7 @@
   {
     "part_number": "CT351104",
     "color": "KCYM",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471",
     "consumable_type": "",
     "yield": "190K",
     "region_zone": "JPN",
@@ -2664,7 +2664,7 @@
   {
     "part_number": "CT202632",
     "color": "M",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471",
     "consumable_type": "",
     "yield": "21K",
     "region_zone": "JPN",
@@ -2675,7 +2675,7 @@
   {
     "part_number": "CT202633",
     "color": "Y",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471",
     "consumable_type": "",
     "yield": "21K",
     "region_zone": "JPN",
@@ -2686,7 +2686,7 @@
   {
     "part_number": "CT202635/CT203583",
     "color": "C",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471\nApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372\nDocuCentre-VII C4473 / C3373 / C3372 / C2273\nApeosPort C3070/3570/4570/5570/6570/7070",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471, ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372, DocuCentre-VII C4473 / C3373 / C3372 / C2273, ApeosPort C3070/3570/4570/5570/6570/7070",
     "consumable_type": "",
     "yield": "21K",
     "region_zone": "AP",
@@ -2697,7 +2697,7 @@
   {
     "part_number": "CT202634/CT203582",
     "color": "K",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471\nApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372\nDocuCentre-VII C4473 / C3373 / C3372 / C2273\nApeosPort C3070/3570/4570/5570/6570/7070",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471, ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372, DocuCentre-VII C4473 / C3373 / C3372 / C2273, ApeosPort C3070/3570/4570/5570/6570/7070",
     "consumable_type": "",
     "yield": "36K",
     "region_zone": "AP",
@@ -2708,7 +2708,7 @@
   {
     "part_number": "CT351105",
     "color": "KCYM",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471\nApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372\nDocuCentre-VII C4473 / C3373 / C3372 / C2273\nApeosPort C3070/3570/4570/5570/6570/7070",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471, ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372, DocuCentre-VII C4473 / C3373 / C3372 / C2273, ApeosPort C3070/3570/4570/5570/6570/7070",
     "consumable_type": "",
     "yield": "190K",
     "region_zone": "AP",
@@ -2719,7 +2719,7 @@
   {
     "part_number": "CT202636/CT203584",
     "color": "M",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471\nApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372\nDocuCentre-VII C4473 / C3373 / C3372 / C2273\nApeosPort C3070/3570/4570/5570/6570/7070",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471, ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372, DocuCentre-VII C4473 / C3373 / C3372 / C2273, ApeosPort C3070/3570/4570/5570/6570/7070",
     "consumable_type": "",
     "yield": "21K",
     "region_zone": "AP",
@@ -2730,7 +2730,7 @@
   {
     "part_number": "CT202637/CT203585",
     "color": "Y",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471\nApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372\nDocuCentre-VII C4473 / C3373 / C3372 / C2273\nApeosPort C3070/3570/4570/5570/6570/7070",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471, ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372, DocuCentre-VII C4473 / C3373 / C3372 / C2273, ApeosPort C3070/3570/4570/5570/6570/7070",
     "consumable_type": "",
     "yield": "21K",
     "region_zone": "AP",
@@ -2741,7 +2741,7 @@
   {
     "part_number": "CT202643/CT203587",
     "color": "C",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471\nApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372\nDocuCentre-VII C4473 / C3373 / C3372 / C2273\nApeosPort C3070/3570/4570/5570/6570/7070",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471, ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372, DocuCentre-VII C4473 / C3373 / C3372 / C2273, ApeosPort C3070/3570/4570/5570/6570/7070",
     "consumable_type": "",
     "yield": "21K",
     "region_zone": "CHN",
@@ -2752,7 +2752,7 @@
   {
     "part_number": "CT202642/CT203586",
     "color": "K",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471\nApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372\nDocuCentre-VII C4473 / C3373 / C3372 / C2273\nApeosPort C3070/3570/4570/5570/6570/7070",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471, ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372, DocuCentre-VII C4473 / C3373 / C3372 / C2273, ApeosPort C3070/3570/4570/5570/6570/7070",
     "consumable_type": "",
     "yield": "36K",
     "region_zone": "CHN",
@@ -2763,7 +2763,7 @@
   {
     "part_number": "CT351108",
     "color": "KCYM",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471\nApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372\nDocuCentre-VII C4473 / C3373 / C3372 / C2273\nApeosPort C3070/3570/4570/5570/6570/7070",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471, ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372, DocuCentre-VII C4473 / C3373 / C3372 / C2273, ApeosPort C3070/3570/4570/5570/6570/7070",
     "consumable_type": "",
     "yield": "190K",
     "region_zone": "CHN",
@@ -2774,7 +2774,7 @@
   {
     "part_number": "CT202644/CT203588",
     "color": "M",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471\nApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372\nDocuCentre-VII C4473 / C3373 / C3372 / C2273\nApeosPort C3070/3570/4570/5570/6570/7070",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471, ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372, DocuCentre-VII C4473 / C3373 / C3372 / C2273, ApeosPort C3070/3570/4570/5570/6570/7070",
     "consumable_type": "",
     "yield": "21K",
     "region_zone": "CHN",
@@ -2785,7 +2785,7 @@
   {
     "part_number": "CT202645/CT203589",
     "color": "Y",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471\nApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372\nDocuCentre-VII C4473 / C3373 / C3372 / C2273\nApeosPort C3070/3570/4570/5570/6570/7070",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471, ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372, DocuCentre-VII C4473 / C3373 / C3372 / C2273, ApeosPort C3070/3570/4570/5570/6570/7070",
     "consumable_type": "",
     "yield": "21K",
     "region_zone": "CHN",
@@ -2796,7 +2796,7 @@
   {
     "part_number": "CT202639",
     "color": "C",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471\nApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372\nDocuCentre-VII C4473 / C3373 / C3372 / C2273\nApeosPort C3070/3570/4570/5570/6570/7070",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471, ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372, DocuCentre-VII C4473 / C3373 / C3372 / C2273, ApeosPort C3070/3570/4570/5570/6570/7070",
     "consumable_type": "",
     "yield": "21K",
     "region_zone": "METERED",
@@ -2807,7 +2807,7 @@
   {
     "part_number": "CT202638",
     "color": "K",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471\nApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372\nDocuCentre-VII C4473 / C3373 / C3372 / C2273\nApeosPort C3070/3570/4570/5570/6570/7070",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471, ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372, DocuCentre-VII C4473 / C3373 / C3372 / C2273, ApeosPort C3070/3570/4570/5570/6570/7070",
     "consumable_type": "",
     "yield": "36K",
     "region_zone": "METERED",
@@ -2818,7 +2818,7 @@
   {
     "part_number": "CT202640",
     "color": "M",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471\nApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372\nDocuCentre-VII C4473 / C3373 / C3372 / C2273\nApeosPort C3070/3570/4570/5570/6570/7070",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471, ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372, DocuCentre-VII C4473 / C3373 / C3372 / C2273, ApeosPort C3070/3570/4570/5570/6570/7070",
     "consumable_type": "",
     "yield": "21K",
     "region_zone": "METERED",
@@ -2829,7 +2829,7 @@
   {
     "part_number": "CT202641",
     "color": "Y",
-    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771\nDocuCentre-VI C2271/C3370/C3371/C4471\nApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372\nDocuCentre-VII C4473 / C3373 / C3372 / C2273\nApeosPort C3070/3570/4570/5570/6570/7070",
+    "printer_model": "Fuji Xerox ApeosPort-VI C3370/C3371/C4471/C5571/C6671/7771, DocuCentre-VI C2271/C3370/C3371/C4471, ApeosPort-VII C7773 / C6673 / C5573 / C4473 / C3373 / C3372, DocuCentre-VII C4473 / C3373 / C3372 / C2273, ApeosPort C3070/3570/4570/5570/6570/7070",
     "consumable_type": "",
     "yield": "21K",
     "region_zone": "METERED",
@@ -2895,7 +2895,7 @@
   {
     "part_number": "CT203343",
     "color": "C",
-    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321\nDocuPrint CP475 AP",
+    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321, DocuPrint CP475 AP",
     "consumable_type": "",
     "yield": "5K",
     "region_zone": "AP",
@@ -2906,7 +2906,7 @@
   {
     "part_number": "CT203347",
     "color": "C",
-    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321\nDocuPrint CP475 AP",
+    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321, DocuPrint CP475 AP",
     "consumable_type": "",
     "yield": "11K",
     "region_zone": "AP",
@@ -2917,7 +2917,7 @@
   {
     "part_number": "CT351221",
     "color": "C",
-    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321\nDocuPrint CP475 AP",
+    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321, DocuPrint CP475 AP",
     "consumable_type": "",
     "yield": "60K",
     "region_zone": "AP",
@@ -2928,7 +2928,7 @@
   {
     "part_number": "CT203342",
     "color": "K",
-    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321\nDocuPrint CP475 AP",
+    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321, DocuPrint CP475 AP",
     "consumable_type": "",
     "yield": "7K",
     "region_zone": "AP",
@@ -2939,7 +2939,7 @@
   {
     "part_number": "CT203346",
     "color": "K",
-    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321\nDocuPrint CP475 AP",
+    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321, DocuPrint CP475 AP",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "AP",
@@ -2950,7 +2950,7 @@
   {
     "part_number": "CT351220",
     "color": "K",
-    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321\nDocuPrint CP475 AP",
+    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321, DocuPrint CP475 AP",
     "consumable_type": "",
     "yield": "60K",
     "region_zone": "AP",
@@ -2961,7 +2961,7 @@
   {
     "part_number": "CT203344",
     "color": "M",
-    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321\nDocuPrint CP475 AP",
+    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321, DocuPrint CP475 AP",
     "consumable_type": "",
     "yield": "5K",
     "region_zone": "AP",
@@ -2972,7 +2972,7 @@
   {
     "part_number": "CT203348",
     "color": "M",
-    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321\nDocuPrint CP475 AP",
+    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321, DocuPrint CP475 AP",
     "consumable_type": "",
     "yield": "11K",
     "region_zone": "AP",
@@ -2983,7 +2983,7 @@
   {
     "part_number": "CT351222",
     "color": "M",
-    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321\nDocuPrint CP475 AP",
+    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321, DocuPrint CP475 AP",
     "consumable_type": "",
     "yield": "60K",
     "region_zone": "AP",
@@ -2994,7 +2994,7 @@
   {
     "part_number": "CT203345",
     "color": "Y",
-    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321\nDocuPrint CP475 AP",
+    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321, DocuPrint CP475 AP",
     "consumable_type": "",
     "yield": "5K",
     "region_zone": "AP",
@@ -3005,7 +3005,7 @@
   {
     "part_number": "CT203349",
     "color": "Y",
-    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321\nDocuPrint CP475 AP",
+    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321, DocuPrint CP475 AP",
     "consumable_type": "",
     "yield": "11K",
     "region_zone": "AP",
@@ -3016,7 +3016,7 @@
   {
     "part_number": "CT351223",
     "color": "Y",
-    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321\nDocuPrint CP475 AP",
+    "printer_model": "Fuji Xerox ApeosPort-VII C4421 / C3321, DocuPrint CP475 AP",
     "consumable_type": "",
     "yield": "60K",
     "region_zone": "AP",
@@ -3247,7 +3247,7 @@
   {
     "part_number": "CT202876",
     "color": "MONO",
-    "printer_model": "Fuji Xerox DociPrint P235db/P235d\nFuji Xerox DociPrint P275dw/M225dw/M235z/M275z/M285z/P285dw",
+    "printer_model": "Fuji Xerox DociPrint P235db/P235d, Fuji Xerox DociPrint P275dw/M225dw/M235z/M275z/M285z/P285dw",
     "consumable_type": "",
     "yield": "1.2K",
     "region_zone": "AP",
@@ -3258,7 +3258,7 @@
   {
     "part_number": "CT202877",
     "color": "MONO",
-    "printer_model": "Fuji Xerox DociPrint P235db/P235d\nFuji Xerox DociPrint P275dw/M225dw/M235z/M275z/M285z/P285dw",
+    "printer_model": "Fuji Xerox DociPrint P235db/P235d, Fuji Xerox DociPrint P275dw/M225dw/M235z/M275z/M285z/P285dw",
     "consumable_type": "",
     "yield": "3K",
     "region_zone": "AP",
@@ -4369,7 +4369,7 @@
   {
     "part_number": "CT350806",
     "color": "KCYM",
-    "printer_model": "Fuji Xerox DocuCentre-IV2270/2275/3370/3371/3373/3375/\n4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/\n3373/3375/4470/4475/5570/5575,V2275/3373/3375/4475/\n5575/6675/7775",
+    "printer_model": "Fuji Xerox DocuCentre-IV2270/2275/3370/3371/3373/3375/, 4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/, 3373/3375/4470/4475/5570/5575,V2275/3373/3375/4475/, 5575/6675/7775",
     "consumable_type": "",
     "yield": "103K",
     "region_zone": "EX JPN",
@@ -4380,7 +4380,7 @@
   {
     "part_number": "CT350851",
     "color": "KCYM",
-    "printer_model": "Fuji Xerox DocuCentre-IV2270/2275/3370/3371/3373/3375/\n4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/\n3373/3375/4470/4475/5570/5575,V2275/3373/3375/4475/\n5575/6675/7775",
+    "printer_model": "Fuji Xerox DocuCentre-IV2270/2275/3370/3371/3373/3375/, 4470/4475/5570/5575,ApeosPort-C2270/2275/3370/3371/, 3373/3375/4470/4475/5570/5575,V2275/3373/3375/4475/, 5575/6675/7775",
     "consumable_type": "",
     "yield": "150K",
     "region_zone": "EX JPN",
@@ -4391,7 +4391,7 @@
   {
     "part_number": "CT202106/CT201371",
     "color": "C",
-    "printer_model": "Fuji Xerox DocuCentre-IV2270/2275/3370/3371/3373/3375/4470/\n4475/5570/5575,ApeosPort-C2270/2275/3370/\n3371/3373/3375/4470/4475/5570/5575                                         Docucentre-V2275/3373/3375/4475/5575/6675/7775",
+    "printer_model": "Fuji Xerox DocuCentre-IV2270/2275/3370/3371/3373/3375/4470/, 4475/5570/5575,ApeosPort-C2270/2275/3370/, 3371/3373/3375/4470/4475/5570/5575                                         Docucentre-V2275/3373/3375/4475/5575/6675/7775",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "METERED",
@@ -4402,7 +4402,7 @@
   {
     "part_number": "CT202105/CT201370",
     "color": "K",
-    "printer_model": "Fuji Xerox DocuCentre-IV2270/2275/3370/3371/3373/3375/4470/\n4475/5570/5575,ApeosPort-C2270/2275/3370/\n3371/3373/3375/4470/4475/5570/5575                                         Docucentre-V2275/3373/3375/4475/5575/6675/7775",
+    "printer_model": "Fuji Xerox DocuCentre-IV2270/2275/3370/3371/3373/3375/4470/, 4475/5570/5575,ApeosPort-C2270/2275/3370/, 3371/3373/3375/4470/4475/5570/5575                                         Docucentre-V2275/3373/3375/4475/5575/6675/7775",
     "consumable_type": "",
     "yield": "26K",
     "region_zone": "METERED",
@@ -4413,7 +4413,7 @@
   {
     "part_number": "CT202107/CT201372",
     "color": "M",
-    "printer_model": "Fuji Xerox DocuCentre-IV2270/2275/3370/3371/3373/3375/4470/\n4475/5570/5575,ApeosPort-C2270/2275/3370/\n3371/3373/3375/4470/4475/5570/5575                                         Docucentre-V2275/3373/3375/4475/5575/6675/7775",
+    "printer_model": "Fuji Xerox DocuCentre-IV2270/2275/3370/3371/3373/3375/4470/, 4475/5570/5575,ApeosPort-C2270/2275/3370/, 3371/3373/3375/4470/4475/5570/5575                                         Docucentre-V2275/3373/3375/4475/5575/6675/7775",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "METERED",
@@ -4424,7 +4424,7 @@
   {
     "part_number": "CT202108/CT201373",
     "color": "Y",
-    "printer_model": "Fuji Xerox DocuCentre-IV2270/2275/3370/3371/3373/3375/4470/\n4475/5570/5575,ApeosPort-C2270/2275/3370/\n3371/3373/3375/4470/4475/5570/5575                                         Docucentre-V2275/3373/3375/4475/5575/6675/7775",
+    "printer_model": "Fuji Xerox DocuCentre-IV2270/2275/3370/3371/3373/3375/4470/, 4475/5570/5575,ApeosPort-C2270/2275/3370/, 3371/3373/3375/4470/4475/5570/5575                                         Docucentre-V2275/3373/3375/4475/5575/6675/7775",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "METERED",
@@ -4457,7 +4457,7 @@
   {
     "part_number": "CT202343",
     "color": "MONO",
-    "printer_model": "Fuji Xerox DocuCentre-V 4070/5070,ApeosPort-V4070/5070\nApeosPort 4570/5570",
+    "printer_model": "Fuji Xerox DocuCentre-V 4070/5070,ApeosPort-V4070/5070, ApeosPort 4570/5570",
     "consumable_type": "",
     "yield": "25K",
     "region_zone": "ASIA",
@@ -4468,7 +4468,7 @@
   {
     "part_number": "CT351061",
     "color": "MONO",
-    "printer_model": "Fuji Xerox DocuCentre-V 4070/5070,ApeosPort-V4070/5070\nApeosPort 4570/5570",
+    "printer_model": "Fuji Xerox DocuCentre-V 4070/5070,ApeosPort-V4070/5070, ApeosPort 4570/5570",
     "consumable_type": "",
     "yield": "60K",
     "region_zone": "ASIA",
@@ -4479,7 +4479,7 @@
   {
     "part_number": "CT202344",
     "color": "MONO",
-    "printer_model": "Fuji Xerox DocuCentre-V 4070/5070,ApeosPort-V4070/5070\nApeosPort 4570/5570",
+    "printer_model": "Fuji Xerox DocuCentre-V 4070/5070,ApeosPort-V4070/5070, ApeosPort 4570/5570",
     "consumable_type": "",
     "yield": "25K",
     "region_zone": "CHN",
@@ -4490,7 +4490,7 @@
   {
     "part_number": "CT202493/CT202489",
     "color": "C",
-    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265\nApeosPort C2060/2560",
+    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265, ApeosPort C2060/2560",
     "consumable_type": "",
     "yield": "15K/280g",
     "region_zone": "METERED",
@@ -4501,7 +4501,7 @@
   {
     "part_number": "CT202492/CT202488",
     "color": "K",
-    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265\nApeosPort C2060/2560",
+    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265, ApeosPort C2060/2560",
     "consumable_type": "",
     "yield": "22K/450g",
     "region_zone": "METERED",
@@ -4512,7 +4512,7 @@
   {
     "part_number": "CT202494/CT202490",
     "color": "M",
-    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265\nApeosPort C2060/2560",
+    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265, ApeosPort C2060/2560",
     "consumable_type": "",
     "yield": "15K/280g",
     "region_zone": "METERED",
@@ -4523,7 +4523,7 @@
   {
     "part_number": "CT202495/CT202491",
     "color": "Y",
-    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265\nApeosPort C2060/2560",
+    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265, ApeosPort C2060/2560",
     "consumable_type": "",
     "yield": "15K/280g",
     "region_zone": "METERED",
@@ -4534,7 +4534,7 @@
   {
     "part_number": "CT351088",
     "color": "KCYM",
-    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265\nApeosPort C2060/2560/3060",
+    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265, ApeosPort C2060/2560/3060",
     "consumable_type": "",
     "yield": "66.9K",
     "region_zone": "WW",
@@ -4545,7 +4545,7 @@
   {
     "part_number": "CT202497",
     "color": "C",
-    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265\nApeosPort C3060/2060/2560",
+    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265, ApeosPort C3060/2060/2560",
     "consumable_type": "",
     "yield": "15K/280g",
     "region_zone": "EX JPN",
@@ -4556,7 +4556,7 @@
   {
     "part_number": "CT202496",
     "color": "K",
-    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265\nApeosPort C3060/2060/2560",
+    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265, ApeosPort C3060/2060/2560",
     "consumable_type": "",
     "yield": "22K/450g",
     "region_zone": "EX JPN",
@@ -4567,7 +4567,7 @@
   {
     "part_number": "CT202498",
     "color": "M",
-    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265\nApeosPort C3060/2060/2560",
+    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265, ApeosPort C3060/2060/2560",
     "consumable_type": "",
     "yield": "15K/280g",
     "region_zone": "EX JPN",
@@ -4578,7 +4578,7 @@
   {
     "part_number": "CT202499",
     "color": "Y",
-    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265\nApeosPort C3060/2060/2560",
+    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265, ApeosPort C3060/2060/2560",
     "consumable_type": "",
     "yield": "15K/280g",
     "region_zone": "EX JPN",
@@ -4589,7 +4589,7 @@
   {
     "part_number": "CT202485",
     "color": "C",
-    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265\nApeosPort C3060/2060/2560",
+    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265, ApeosPort C3060/2060/2560",
     "consumable_type": "",
     "yield": "15K/280g",
     "region_zone": "JPN",
@@ -4600,7 +4600,7 @@
   {
     "part_number": "CT202484",
     "color": "K",
-    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265\nApeosPort C3060/2060/2560",
+    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265, ApeosPort C3060/2060/2560",
     "consumable_type": "",
     "yield": "22K/450g",
     "region_zone": "JPN",
@@ -4611,7 +4611,7 @@
   {
     "part_number": "CT202486",
     "color": "M",
-    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265\nApeosPort C3060/2060/2560",
+    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265, ApeosPort C3060/2060/2560",
     "consumable_type": "",
     "yield": "15K/280g",
     "region_zone": "JPN",
@@ -4622,7 +4622,7 @@
   {
     "part_number": "CT202487",
     "color": "Y",
-    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265\nApeosPort C3060/2060/2560",
+    "printer_model": "Fuji Xerox DocuCentre-V C2263/2263L/2265, ApeosPort C3060/2060/2560",
     "consumable_type": "",
     "yield": "15K/280g",
     "region_zone": "JPN",
@@ -4677,7 +4677,7 @@
   {
     "part_number": "CT201830",
     "color": "C",
-    "printer_model": "Fuji Xerox DocuCentreIV2270/2275/3371/3370/3373/3375/\n4470/4475/5570/5575,ApeosPortC2275/3371/3373/3375/4475/5575,V2275/3373/3375/4475/5575/6675/7775",
+    "printer_model": "Fuji Xerox DocuCentreIV2270/2275/3371/3370/3373/3375/, 4470/4475/5570/5575,ApeosPortC2275/3371/3373/3375/4475/5575,V2275/3373/3375/4475/5575/6675/7775",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "EX JPN",
@@ -4688,7 +4688,7 @@
   {
     "part_number": "CT201829",
     "color": "K",
-    "printer_model": "Fuji Xerox DocuCentreIV2270/2275/3371/3370/3373/3375/\n4470/4475/5570/5575,ApeosPortC2275/3371/3373/3375/4475/5575,V2275/3373/3375/4475/5575/6675/7775",
+    "printer_model": "Fuji Xerox DocuCentreIV2270/2275/3371/3370/3373/3375/, 4470/4475/5570/5575,ApeosPortC2275/3371/3373/3375/4475/5575,V2275/3373/3375/4475/5575/6675/7775",
     "consumable_type": "",
     "yield": "26K",
     "region_zone": "EX JPN",
@@ -4699,7 +4699,7 @@
   {
     "part_number": "CT201831",
     "color": "M",
-    "printer_model": "Fuji Xerox DocuCentreIV2270/2275/3371/3370/3373/3375/\n4470/4475/5570/5575,ApeosPortC2275/3371/3373/3375/4475/5575,V2275/3373/3375/4475/5575/6675/7775",
+    "printer_model": "Fuji Xerox DocuCentreIV2270/2275/3371/3370/3373/3375/, 4470/4475/5570/5575,ApeosPortC2275/3371/3373/3375/4475/5575,V2275/3373/3375/4475/5575/6675/7775",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "EX JPN",
@@ -4710,7 +4710,7 @@
   {
     "part_number": "CT201832",
     "color": "Y",
-    "printer_model": "Fuji Xerox DocuCentreIV2270/2275/3371/3370/3373/3375/\n4470/4475/5570/5575,ApeosPortC2275/3371/3373/3375/4475/5575,V2275/3373/3375/4475/5575/6675/7775",
+    "printer_model": "Fuji Xerox DocuCentreIV2270/2275/3371/3370/3373/3375/, 4470/4475/5570/5575,ApeosPortC2275/3371/3373/3375/4475/5575,V2275/3373/3375/4475/5575/6675/7775",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "EX JPN",
@@ -4831,7 +4831,7 @@
   {
     "part_number": "CT203090",
     "color": "MONO",
-    "printer_model": "Fuji Xerox DocuPrint 3200d\nFuji Xerox DocuPrint 3500d/4400d",
+    "printer_model": "Fuji Xerox DocuPrint 3200d, Fuji Xerox DocuPrint 3500d/4400d",
     "consumable_type": "",
     "yield": "6K",
     "region_zone": "JPN",
@@ -4842,7 +4842,7 @@
   {
     "part_number": "CT203091",
     "color": "MONO",
-    "printer_model": "Fuji Xerox DocuPrint 3200d\nFuji Xerox DocuPrint 3500d/4400d",
+    "printer_model": "Fuji Xerox DocuPrint 3200d, Fuji Xerox DocuPrint 3500d/4400d",
     "consumable_type": "",
     "yield": "10K",
     "region_zone": "JPN",
@@ -5073,7 +5073,7 @@
   {
     "part_number": "CT201161/1130",
     "color": "C",
-    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, \nSambo e-Laser CA3250",
+    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, , Sambo e-Laser CA3250",
     "consumable_type": "",
     "yield": "12K",
     "region_zone": "WW",
@@ -5084,7 +5084,7 @@
   {
     "part_number": "CT201160/1129",
     "color": "K",
-    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, \nSambo e-Laser CA3250",
+    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, , Sambo e-Laser CA3250",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "WW",
@@ -5095,7 +5095,7 @@
   {
     "part_number": "CT350615/654",
     "color": "KCYM",
-    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, \nSambo e-Laser CA3250",
+    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, , Sambo e-Laser CA3250",
     "consumable_type": "",
     "yield": "40K",
     "region_zone": "WW",
@@ -5106,7 +5106,7 @@
   {
     "part_number": "CT201162/1131",
     "color": "M",
-    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, \nSambo e-Laser CA3250",
+    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, , Sambo e-Laser CA3250",
     "consumable_type": "",
     "yield": "12K",
     "region_zone": "WW",
@@ -5117,7 +5117,7 @@
   {
     "part_number": "CT201163/1132",
     "color": "Y",
-    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, \nSambo e-Laser CA3250",
+    "printer_model": "Fuji Xerox DocuPrint C2250/C2255/C3360, , Sambo e-Laser CA3250",
     "consumable_type": "",
     "yield": "12K",
     "region_zone": "WW",
@@ -5689,7 +5689,7 @@
   {
     "part_number": "106R03894",
     "color": "C",
-    "printer_model": "Fuji Xerox DocuPrint CM118w/CM228fw/CP228w,CP118w/CP119w, DocuPrint CM115w/225w,CP115w/116w/225W\nFuji Xerox DocuPrint CP105/205/215/CM205",
+    "printer_model": "Fuji Xerox DocuPrint CM118w/CM228fw/CP228w,CP118w/CP119w, DocuPrint CM115w/225w,CP115w/116w/225W, Fuji Xerox DocuPrint CP105/205/215/CM205",
     "consumable_type": "",
     "yield": "1.4K",
     "region_zone": "ASIA",
@@ -5700,7 +5700,7 @@
   {
     "part_number": "106R03894",
     "color": "K",
-    "printer_model": "Fuji Xerox DocuPrint CM118w/CM228fw/CP228w,CP118w/CP119w, DocuPrint CM115w/225w,CP115w/116w/225W\nFuji Xerox DocuPrint CP105/205/215/CM205",
+    "printer_model": "Fuji Xerox DocuPrint CM118w/CM228fw/CP228w,CP118w/CP119w, DocuPrint CM115w/225w,CP115w/116w/225W, Fuji Xerox DocuPrint CP105/205/215/CM205",
     "consumable_type": "",
     "yield": "2K",
     "region_zone": "ASIA",
@@ -5711,7 +5711,7 @@
   {
     "part_number": "106R03894",
     "color": "M",
-    "printer_model": "Fuji Xerox DocuPrint CM118w/CM228fw/CP228w,CP118w/CP119w, DocuPrint CM115w/225w,CP115w/116w/225W\nFuji Xerox DocuPrint CP105/205/215/CM205",
+    "printer_model": "Fuji Xerox DocuPrint CM118w/CM228fw/CP228w,CP118w/CP119w, DocuPrint CM115w/225w,CP115w/116w/225W, Fuji Xerox DocuPrint CP105/205/215/CM205",
     "consumable_type": "",
     "yield": "1.4K",
     "region_zone": "ASIA",
@@ -5722,7 +5722,7 @@
   {
     "part_number": "106R03894",
     "color": "Y",
-    "printer_model": "Fuji Xerox DocuPrint CM118w/CM228fw/CP228w,CP118w/CP119w, DocuPrint CM115w/225w,CP115w/116w/225W\nFuji Xerox DocuPrint CP105/205/215/CM205\nFuji Xerox DocuPrint P205f/205fw/205b/M205b/P215b/M215b/M215ab/M215f",
+    "printer_model": "Fuji Xerox DocuPrint CM118w/CM228fw/CP228w,CP118w/CP119w, DocuPrint CM115w/225w,CP115w/116w/225W, Fuji Xerox DocuPrint CP105/205/215/CM205, Fuji Xerox DocuPrint P205f/205fw/205b/M205b/P215b/M215b/M215ab/M215f",
     "consumable_type": "",
     "yield": "1.4K",
     "region_zone": "ASIA",
@@ -9583,7 +9583,7 @@
   {
     "part_number": "PR-L8600-12",
     "color": "MONO",
-    "printer_model": "NEC MultiWriter 8600\nNEC MultiWriter 8700/8800",
+    "printer_model": "NEC MultiWriter 8600, NEC MultiWriter 8700/8800",
     "consumable_type": "",
     "yield": "10K",
     "region_zone": "JPN",
@@ -9594,7 +9594,7 @@
   {
     "part_number": "PR-L8700-11",
     "color": "MONO",
-    "printer_model": "NEC MultiWriter 8600\nNEC MultiWriter 8700/8800",
+    "printer_model": "NEC MultiWriter 8600, NEC MultiWriter 8700/8800",
     "consumable_type": "",
     "yield": "6K",
     "region_zone": "JPN",
@@ -9880,7 +9880,7 @@
   {
     "part_number": "106R03473",
     "color": "C",
-    "printer_model": "XEROX Phaser 6510N/DN/DNM/DNI \n WorkCentre 6515N/DN/DNM/DNI",
+    "printer_model": "XEROX Phaser 6510N/DN/DNM/DNI ,  WorkCentre 6515N/DN/DNM/DNI",
     "consumable_type": "",
     "yield": "1K",
     "region_zone": "NA/WEU",
@@ -9891,7 +9891,7 @@
   {
     "part_number": "106R03476",
     "color": "K",
-    "printer_model": "XEROX Phaser 6510N/DN/DNM/DNI \n WorkCentre 6515N/DN/DNM/DNI",
+    "printer_model": "XEROX Phaser 6510N/DN/DNM/DNI ,  WorkCentre 6515N/DN/DNM/DNI",
     "consumable_type": "",
     "yield": "2.5K",
     "region_zone": "NA/WEU",
@@ -9902,7 +9902,7 @@
   {
     "part_number": "106R03474",
     "color": "M",
-    "printer_model": "XEROX Phaser 6510N/DN/DNM/DNI \n WorkCentre 6515N/DN/DNM/DNI",
+    "printer_model": "XEROX Phaser 6510N/DN/DNM/DNI ,  WorkCentre 6515N/DN/DNM/DNI",
     "consumable_type": "",
     "yield": "1K",
     "region_zone": "NA/WEU",
@@ -9913,7 +9913,7 @@
   {
     "part_number": "106R03475",
     "color": "Y",
-    "printer_model": "XEROX Phaser 6510N/DN/DNM/DNI \n WorkCentre 6515N/DN/DNM/DNI",
+    "printer_model": "XEROX Phaser 6510N/DN/DNM/DNI ,  WorkCentre 6515N/DN/DNM/DNI",
     "consumable_type": "",
     "yield": "1K",
     "region_zone": "NA/WEU",
@@ -18284,7 +18284,7 @@
   {
     "part_number": "CT203443",
     "color": "C",
-    "printer_model": "Xerox Versant 80 Press/180Press\nFujifilm  Versant 180i Press/170i Press/SC170/SC180",
+    "printer_model": "Xerox Versant 80 Press/180Press, Fujifilm  Versant 180i Press/170i Press/SC170/SC180",
     "consumable_type": "",
     "yield": "22K",
     "region_zone": "CHN",
@@ -18295,7 +18295,7 @@
   {
     "part_number": "CT203442",
     "color": "K",
-    "printer_model": "Xerox Versant 80 Press/180Press\nFujifilm  Versant 180i Press/170i Press/SC170/SC180",
+    "printer_model": "Xerox Versant 80 Press/180Press, Fujifilm  Versant 180i Press/170i Press/SC170/SC180",
     "consumable_type": "",
     "yield": "20K",
     "region_zone": "CHN",
@@ -18306,7 +18306,7 @@
   {
     "part_number": "CT203444",
     "color": "M",
-    "printer_model": "Xerox Versant 80 Press/180Press\nFujifilm  Versant 180i Press/170i Press/SC170/SC180",
+    "printer_model": "Xerox Versant 80 Press/180Press, Fujifilm  Versant 180i Press/170i Press/SC170/SC180",
     "consumable_type": "",
     "yield": "22K",
     "region_zone": "CHN",
@@ -18317,7 +18317,7 @@
   {
     "part_number": "CT203445",
     "color": "Y",
-    "printer_model": "Xerox Versant 80 Press/180Press\nFujifilm  Versant 180i Press/170i Press/SC170/SC180",
+    "printer_model": "Xerox Versant 80 Press/180Press, Fujifilm  Versant 180i Press/170i Press/SC170/SC180",
     "consumable_type": "",
     "yield": "22K",
     "region_zone": "CHN",
@@ -18328,7 +18328,7 @@
   {
     "part_number": "CT202293/006R01643",
     "color": "C",
-    "printer_model": "Xerox Versant 80 Press/180Press\nFujifilm  Versant 180i Press/170i Press/SC170/SC180",
+    "printer_model": "Xerox Versant 80 Press/180Press, Fujifilm  Versant 180i Press/170i Press/SC170/SC180",
     "consumable_type": "",
     "yield": "22K",
     "region_zone": "WW",
@@ -18339,7 +18339,7 @@
   {
     "part_number": "CT202292/006R01642",
     "color": "K",
-    "printer_model": "Xerox Versant 80 Press/180Press\nFujifilm  Versant 180i Press/170i Press/SC170/SC180",
+    "printer_model": "Xerox Versant 80 Press/180Press, Fujifilm  Versant 180i Press/170i Press/SC170/SC180",
     "consumable_type": "",
     "yield": "20K",
     "region_zone": "WW",
@@ -18350,7 +18350,7 @@
   {
     "part_number": "CT202294/006R01644",
     "color": "M",
-    "printer_model": "Xerox Versant 80 Press/180Press\nFujifilm  Versant 180i Press/170i Press/SC170/SC180",
+    "printer_model": "Xerox Versant 80 Press/180Press, Fujifilm  Versant 180i Press/170i Press/SC170/SC180",
     "consumable_type": "",
     "yield": "22K",
     "region_zone": "WW",
@@ -18361,7 +18361,7 @@
   {
     "part_number": "CT202295/006R01645",
     "color": "Y",
-    "printer_model": "Xerox Versant 80 Press/180Press\nFujifilm  Versant 180i Press/170i Press/SC170/SC180",
+    "printer_model": "Xerox Versant 80 Press/180Press, Fujifilm  Versant 180i Press/170i Press/SC170/SC180",
     "consumable_type": "",
     "yield": "22K",
     "region_zone": "WW",
@@ -19690,7 +19690,7 @@
     "chip_type": ""
   },
   {
-    "part_number": "013R00636\nCT350580",
+    "part_number": "013R00636, CT350580",
     "color": "KCYM",
     "printer_model": "Xerox WorkCentre 7132/7232/7242",
     "consumable_type": "",
@@ -20066,7 +20066,7 @@
   {
     "part_number": "006R01512",
     "color": "C",
-    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, \nAltaLinK C8030/C8035/C8045/C8055/C8070",
+    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, , AltaLinK C8030/C8035/C8045/C8055/C8070",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "METERED",
@@ -20077,7 +20077,7 @@
   {
     "part_number": "006R01509",
     "color": "K",
-    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, \nAltaLinK C8030/C8035/C8045/C8055/C8070",
+    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, , AltaLinK C8030/C8035/C8045/C8055/C8070",
     "consumable_type": "",
     "yield": "26K",
     "region_zone": "METERED",
@@ -20088,7 +20088,7 @@
   {
     "part_number": "006R01511",
     "color": "M",
-    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, \nAltaLinK C8030/C8035/C8045/C8055/C8070",
+    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, , AltaLinK C8030/C8035/C8045/C8055/C8070",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "METERED",
@@ -20099,7 +20099,7 @@
   {
     "part_number": "006R01510",
     "color": "Y",
-    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, \nAltaLinK C8030/C8035/C8045/C8055/C8070",
+    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, , AltaLinK C8030/C8035/C8045/C8055/C8070",
     "consumable_type": "",
     "yield": "15K",
     "region_zone": "METERED",
@@ -20110,7 +20110,7 @@
   {
     "part_number": "013R00662",
     "color": "KCYM",
-    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, \nAltaLinK C8030/C8035/C8045/C8055/C8070",
+    "printer_model": "Xerox WorkCentre 7525/7530/7535/7545/7556/7825/7830/7835/7845/7855/7970, , AltaLinK C8030/C8035/C8045/C8055/C8070",
     "consumable_type": "",
     "yield": "125K",
     "region_zone": "WW",
@@ -20242,7 +20242,7 @@
   {
     "part_number": "109R00752",
     "color": "MONO",
-    "printer_model": "Xerox WorkCentre Pro232/238/245/255,5735/5740/5745/5755\n/5632/5638/5645/5655/5135/5150,BooKMarK 40/55",
+    "printer_model": "Xerox WorkCentre Pro232/238/245/255,5735/5740/5745/5755, /5632/5638/5645/5655/5135/5150,BooKMarK 40/55",
     "consumable_type": "",
     "yield": "400K",
     "region_zone": "NA/E.EU",
@@ -20253,7 +20253,7 @@
   {
     "part_number": "109R00751",
     "color": "MONO",
-    "printer_model": "Xerox WorkCentre Pro232/238/245/255,5735/5740/5745/5755\n/5632/5638/5645/5655/5135/5150,BooKMarK 40/55",
+    "printer_model": "Xerox WorkCentre Pro232/238/245/255,5735/5740/5745/5755, /5632/5638/5645/5655/5135/5150,BooKMarK 40/55",
     "consumable_type": "",
     "yield": "400K",
     "region_zone": "W.EU",
