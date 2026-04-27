@@ -49,6 +49,7 @@ Colors
 | R          | Red                   |
 | SV         | Silver                |
 | T          | Transparent           |
+| W          | White                 |
 | Y          | Yellow                |
 | Y UV       | Yellow - UV           |
 | Y Dye      | Yellow - Dye          |
